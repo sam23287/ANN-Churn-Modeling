@@ -1,7 +1,9 @@
-tensorflow==2.15.0
+tensorflow
 scikit-learn
 tensorboard
 pandas
 numpy
 matplotlib
 streamlit
+keras_tuner
+imblearn
